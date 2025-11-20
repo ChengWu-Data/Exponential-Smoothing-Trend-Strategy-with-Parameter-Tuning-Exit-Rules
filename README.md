@@ -60,63 +60,66 @@ The project answers five key research questions:
 ---
 
 ## Repository Structure
-
+```
 Exponential-Smoothing-Trend-Strategy/
 │
-├── FX_Trend_Strategy_ES_Crossover.ipynb # Full analysis & backtest
-├── FX_Trend_Strategy_Report.pdf # LaTeX report (Overleaf-compiled)
+├─ FX_Trend_Strategy_ES_Crossover.ipynb      # Full analysis & backtest  
+├─ FX_Trend_Strategy_Report.pdf              # LaTeX report (Overleaf compiled)
 │
-├── data/
-│ └── USD_CAD_Daily_OHLC_2003_2025.csv # Cleaned OHLC data
+├─ data/
+│   └─ USD_CAD_Daily_OHLC_2003_2025.csv      # Cleaned OHLC data
 │
-├── figures/
-│ ├── Sharpe_Heatmap.png
-│ ├── Buffer_vs_Sharpe.png
-│ ├── Buffer_vs_Trades.png
-│ ├── Decel_vs_Sharpe.png
-│ ├── Decel_vs_Trades.png
-│ ├── Strategy_Cumulative_Return.png
-│ └── ES_Crossover_Example.png
+├─ figures/
+│   ├─ Sharpe_Heatmap.png
+│   ├─ Buffer_vs_Sharpe.png
+│   ├─ Buffer_vs_Trades.png
+│   ├─ Decel_vs_Sharpe.png
+│   ├─ Decel_vs_Trades.png
+│   ├─ Strategy_Cumulative_Return.png
+│   └─ ES_Crossover_Example.png
 │
-└── README.md
+└─ README.md
+```
+
 
 
 ---
 
-## Example Figures
+## 📊 Example Figures
 
 ### 🔸 Sharpe Ratio Heatmap  
 Optimal region around **(α = 0.20, β = 0.60)**.
 
-<img src="figures/Sharpe_Heatmap.png" width="550"/>
+<img src="figures/Sharpe Ratio Heatmap.png" width="550"/>
 
 ---
 
 ### 🔸 Buffer Effect on Sharpe Ratio  
 Increasing buffer \( x \) weakens performance.
 
-<img src="figures/Buffer_vs_Sharpe.png" width="550"/>
+<img src="figures/Buffer Sharpe.png" width="550"/>
 
 ---
 
 ### 🔸 Deceleration Threshold Effect  
 Deceleration increases turnover and significantly reduces Sharpe.
 
-<img src="figures/Decel_vs_Sharpe.png" width="550"/>
+<img src="figures/Deceleration Sharpe.png" width="550"/>
 
 ---
 
 ### 🔸 Strategy Cumulative Return  
 The crossover model captures medium-term FX trends.
 
-<img src="figures/Strategy_Cumulative_Return.png" width="550"/>
+<img src="figures/Strategy Cumulative Return.png" width="550"/>
 
 ---
 
 ### 🔸 Exponential Smoothing Filters  
 Fast vs slow smoothing used to generate crossover signals.
 
-<img src="figures/ES_Crossover_Example.png" width="550"/>
+<img src="figures/USD:CAD.png" width="550"/>
+
 
 ---
 
@@ -217,11 +220,9 @@ The report contains:
 Data Analytics · Market Intelligence · Quant Strategy ·  
 AI-Driven Decision Systems · Financial Modeling
 
-- **Portfolio:** [https://<your-website>](https://chengwu-data.github.io/)  
-- **LinkedIn:** [https://linkedin.com/in/<your-linkedin>](https://www.linkedin.com/in/cheng-wu-1ab27922a/)  
-- **GitHub:** [https://github.com/<your-username> ](https://github.com/ChengWu-Data) 
-
-
+- **Portfolio:** [chengwu-data.github.io](https://chengwu-data.github.io/)  
+- **LinkedIn:** [linkedin.com/in/cheng-wu-1ab27922a](https://www.linkedin.com/in/cheng-wu-1ab27922a/)  
+- **GitHub:** [github.com/ChengWu-Data](https://github.com/ChengWu-Data)  
 
 
 
