@@ -197,7 +197,8 @@ This project demonstrates the full analytical pipeline expected in:
 
 A polished LaTeX report (compiled via Overleaf) is included in this repository:
 
-📎 **FX_Trend_Strategy_Report.pdf**
+📎 **[FX Trend Strategy Using Exponential Smoothing — Cheng Wu (PDF)](FX_Trend_Strategy_Using_Exponential_Smoothing_ChengWu.pdf)**
+
 
 The report contains:
 - Methodology  
@@ -212,7 +213,9 @@ The report contains:
 ## 👤 About the Author
 
 **Cheng Wu**  
+
 *M.S. in Data Science · Columbia University*
+
 *B.S. in Econometrics & Quantitative Economics · University of Illinois at Urbana-Champaign*  
 - Minor in Statistics · Data Science Certificate
 
