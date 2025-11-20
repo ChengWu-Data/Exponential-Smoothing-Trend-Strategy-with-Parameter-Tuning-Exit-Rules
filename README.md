@@ -148,7 +148,7 @@ All tables & charts will be reproduced exactly.
 
 
 
-## Why This Project Matters (Recruiter-Focused)
+## Why This Project Matters (Hello Recruiters 👋)
 
 This project demonstrates the full analytical pipeline expected in:
 
